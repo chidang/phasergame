@@ -1,0 +1,38 @@
+# sec
+.env
+
+# node
+node_modules
+
+# packages
+bower_components
+
+# build
+.cache
+Makefile
+dist
+build
+public
+release
+
+# examples
+example
+examples
+
+# test
+coverage
+.nyc_output
+
+# editors
+#.vscode
+
+# asset
+docs
+doc
+website
+
+# misc
+*.gz
+.DS_Store
+*.DS_Store
+yarn.lock
